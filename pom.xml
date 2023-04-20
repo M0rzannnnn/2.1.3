@@ -21,6 +21,14 @@
             <version>5.3.14</version>
         </dependency>
 
+<!--        &lt;!&ndash; https://mvnrepository.com/artifact/org.springframework/spring-beans &ndash;&gt;-->
+<!--        <dependency>-->
+<!--            <groupId>org.springframework</groupId>-->
+<!--            <artifactId>spring-beans</artifactId>-->
+<!--            <version>5.2.9.RELEASE</version>-->
+<!--        </dependency>-->
+
+
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-test</artifactId>
